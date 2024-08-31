@@ -1,0 +1,10 @@
+C:\Users\User\Documents\SIN\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\User\Documents\SIN\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\User\Documents\SIN\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\User\Documents\SIN\Calculator\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\SIN\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\User\Documents\SIN\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\User\Documents\SIN\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Documents\SIN\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SIN\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\User\Documents\SIN\Calculator\Calculator\obj\Release\Calculator.pdb
